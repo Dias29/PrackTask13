@@ -1,0 +1,5 @@
+C:\Users\УринбасаровД\documents\visual studio 2017\Projects\PracktTask13\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\УринбасаровД\documents\visual studio 2017\Projects\PracktTask13\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\УринбасаровД\documents\visual studio 2017\Projects\PracktTask13\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\УринбасаровД\documents\visual studio 2017\Projects\PracktTask13\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\УринбасаровД\documents\visual studio 2017\Projects\PracktTask13\SecondTask\obj\Debug\SecondTask.pdb

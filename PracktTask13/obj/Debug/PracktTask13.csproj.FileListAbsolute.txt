@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\bin\Debug\PracktTask13.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\bin\Debug\PracktTask13.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\bin\Debug\PracktTask13.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\obj\Debug\PracktTask13.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\obj\Debug\PracktTask13.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask13\PracktTask13\obj\Debug\PracktTask13.pdb
